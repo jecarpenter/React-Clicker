@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "name": "Ezreal",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/c3/EzrealSquare.png?version=20b251fff4e62e9e3bb2d8e88ba1acba",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Jayce",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/a/aa/JayceSquare.png?version=82b1d16ddff378b4c0c43b7039717b06",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Mordekaiser",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/4/4d/MordekaiserSquare.png?version=51ee9eaa68ad8a0bcbe8fa24e8ab18d7",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Lux",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/01/LuxSquare.png?version=1154db31c6d71e69032ebb5f33602b1b",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Pantheon",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/9/9b/PantheonSquare.png?version=585f51bf9f53a80b4fcf18a9be4d8708",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Sett",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/1/19/SettSquare.png?version=cd05ad9766462b5994ba5afb0db6c481",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Sylas",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/e/eb/SylasSquare.png?version=1bf9446d786e2a397fa7da2ca23407e4",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Twisted Fate",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/f/fb/Twisted_FateSquare.png?version=040c49ef9bfc0942da0e284482068ca4",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Teemo",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/0/04/TeemoSquare.png?version=3046ec67b5d5c387968819a57f11325e",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Yasuo",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/c/c0/YasuoSquare.png?version=66c8e7f3f2ca1de0bf8a6f39e6e76fc9",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Xin Zhao",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/6/63/Xin_ZhaoSquare.png?version=1c772a46d418dacccf126c1db0419f52",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Jarvan IV",
+        "image": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/7/72/JarvanIVSquare.png?version=b4a1da51f6789ab2931bba0c7f2046ae",
+        "count": 0
+    }
+]
